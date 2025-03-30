@@ -14,6 +14,21 @@ https://github.com/user-attachments/assets/ae0299fd-fb74-4fb6-83c5-ba4ca81a7bed
 https://github.com/user-attachments/assets/561a2de4-44a3-4785-b387-48ffbbb2f3a6
 
 
+# Low-Fidelity Prototypes
+These videos were taken during the development stage in early-mid stages of the sprints. 
+
+
+
+https://github.com/user-attachments/assets/d4f4be5c-0a38-4574-a189-dbfeca2302d1
+
+
+
+
+
+https://github.com/user-attachments/assets/e983b9eb-df06-4f90-ae1c-8527f1058d3b
+
+
+
 
 # Technical Description
 Our data for this project primarily revolves around York University’s history. We consulted numerous sources in order to get accurate information.
